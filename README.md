@@ -20,7 +20,7 @@ When I'm not coding, you’ll find me playing **korfball**! It keeps me energize
 ---
 
 ### 📫 How to contact me?
-Feel free to check out my repos and reach out via GitHub!
+Feel free to check out my repos and reach out via GitHub!\
 Or email me to Xknight.coding@gmail.com.
 
 <!--
