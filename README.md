@@ -19,7 +19,7 @@ When I'm not coding, you’ll find me playing **korfball**! It keeps me energize
 
 ---
 
-### 📫 Let's Connect!
+### 📫 How to contact me?
 Feel free to check out my repos and reach out via GitHub!
 
 <!--
